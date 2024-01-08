@@ -1,7 +1,7 @@
 # js-css-minifaction
 
 # Prerequests:
-Node.js have to be installed
+Node.js must be installed
 
 # How to use:
 
