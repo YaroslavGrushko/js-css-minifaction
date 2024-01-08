@@ -1,4 +1,5 @@
 # js-css-minifaction
+A simple Node.js application for minifying js and css files.
 
 # Prerequests:
 Node.js must be installed
