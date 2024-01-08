@@ -1,0 +1,6 @@
+# Log files
+*.log
+
+# Editor directories and files
+node_modules/
+package-lock.json
